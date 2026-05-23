@@ -1,0 +1,14 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+
+  "name": "sewcrates.com",
+  "compatibility_date": "2026-05-23",
+
+  "build": {
+    "command": "node scripts/generate.ts",
+  },
+
+  "assets": {
+    "directory": "./public"
+  }
+}

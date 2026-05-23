@@ -17,17 +17,6 @@ function insertSorted(tag: PostData[], post: PostData) {
     tag.push(post)
 }
 
-function yearHeader(years: Tags, year: string): string {
-    let s = '<div class="years">'
-    const keys = Object.keys(years)
-    keys.sort((a, b) => b < a ? -1 : b > a ? 1 : 0)
-    for (const current of keys) {
-        s += `<a href="/dates/${current}.html"><div class="year${current === year ? ' current' : ''}">${current}</div></a>`
-    }
-    s += '</div>'
-    return s
-}
-
 async function writeTags(tags: Tags) {
     await clearDir(join('public', 'tags'), 'tags')
     
@@ -37,7 +26,6 @@ async function writeTags(tags: Tags) {
     writeLine(`${text} (0 of ${keys.length})`)
     for (let i = keys.length - 1; i >= 0; i--) {
         replaceLine(`${text} (${i} of ${keys.length})`)
-        const tag = tags[keys[i]]
         let s = index.replaceAll('{{title}}', `Posts tagged "${keys[i]}"`)
         let body = '<div class="content">'
         body += top()

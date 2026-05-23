@@ -3,6 +3,9 @@
     --foreground: rgba(255,255,255,0.7);
     --background: #112b37;  
     --font: monospace;
+    --gap: 0.5rem;
+    --shadow: 0.25rem 0.25rem 0 rgba(0,0,0,0.3);
+    --text-shadow: 0.25rem 0.25rem 0 rgba(0,0,0,0.3)
 }
 
 body {
@@ -27,9 +30,9 @@ a:hover {
 
 .top {
     display: flex;
-    justify-content: space-between;
-    padding: 1rem;
+    padding: 1rem 0;
     margin-bottom: 1rem;
+    gap: var(--gap); 
 }
 
 .years {
@@ -43,15 +46,28 @@ a:hover {
 .button {
     padding: 0.5rem;
     border-radius: var(--button-radius);
-    margin: 5px;
     background: rgba(255,255,255,0.1);
     color: var(--foreground);
     text-decoration: none;
+    box-shadow: var(--shadow);
 }
 
-.button:hover   {
+.button:active {
+    transform: translate(0.25rem, 0.25rem);
+    box-shadow: none;
+}
+
+.button:hover {
     background: rgba(255,255,255,0.25);
     color: var(--foreground);
+}
+
+.title-overflow {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: calc(min(800px, 100vw) / 3);
+    text-align: right;
 }
 
 .current {
@@ -79,7 +95,7 @@ a:hover {
     padding: 0 1rem;
     display: flex;
     align-items: center;
-    gap: 1rem;
+    gap: var(--gap);
     height: 3rem;
     color: var(--foreground);
     text-decoration: none;
@@ -108,6 +124,7 @@ a:hover {
     font-size: 150%;
     font-weight: bold;
     margin-bottom: 1rem;
+    text-shadow: var(--text-shadow);
 }
 
 .post-date {
@@ -130,7 +147,7 @@ a:hover {
 
 .tags {
     display: flex;
-    gap: 1rem;
+    gap: var(--gap);
 }
 
 .tags a {

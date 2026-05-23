@@ -1,5 +1,5 @@
 export function button(text: string, href: string, extraClass?: string): string {
-    return `<a class="button${extraClass ?? ''}" href="${href}">${text}</a>`
+    return `<a class="button ${extraClass ?? ''}" href="${href}">${text}</a>`
 }
 
 export function top(): string {

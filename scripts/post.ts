@@ -3,7 +3,7 @@ import * as chrono  from 'chrono-node'
 import { join } from "path"
 import { getIndex } from "./util.ts"
 import { marked } from "marked"
-import { top } from "./boilerplate.ts"
+import { button, top } from "./boilerplate.ts"
 import { replaceLine, writeLine } from "./console.ts"
 
 export type PostType = 'musing' | 'cast-of-horribles' | 'inner-tirade' | 'other'
@@ -62,7 +62,8 @@ export async function readPost(filename: string): Promise<PostData> {
         if (entry === 'key') {
             data.key = parseInt(value)
         } else if (entry === 'title') {
-            if (value[0] === "'" && value[value.length - 1] === "'") {
+            // remove quotations (from badly formed data)
+            if (['"', "'"].includes(value[0]) && ['"', "'"].includes(value[value.length - 1])) {
                 data.title = value.substring(1, value.length - 1)
             } else {
                 data.title = value
@@ -137,19 +138,19 @@ export async function writePost(post: PostData, previous: PostData | undefined, 
     if (post.tags.length) {
         body += '<div class="tags">'
         for (const tag of post.tags) {
-            body += `<a href="/tags/${tag}.html"><div class="tag">${tag}</div></a>`
+            body += button(tag, `/tags/${tag}.html`)
         }        
         body += '</div>'
     }
     body += `<div class="post-text">${marked(post.text)}</div>`
     body += '<div class="next-previous">'
     if (previous) {
-        body += `<a href="/posts/${previous.slug}.html"><div class="previous">\< ${previous.title}</div></a>`
+        body += button(`\< ${previous.title}`, `/posts/${previous.slug}.html`, 'title-overflow')
     } else {
         body += '<div></div>'
     }
     if (next) {
-        body += `<a href="/posts/${next.slug}.html"><div class="next">${next.title} \></div></a>`
+        body += button(`${next.title} \>`, `/posts/${next.slug}.html`, 'title-overflow')
     }
 
     body += '</div>'

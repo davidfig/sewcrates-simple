@@ -3,7 +3,7 @@ import { join } from "node:path";
 import { replaceLine, writeLine } from "./console.ts";
 
 export async function getIndex(): Promise<string> {
-    return await readFile(join('scripts', 'index.html'), { encoding: 'utf8'} )
+    return await readFile(join('scripts', 'index.handlebars'), { encoding: 'utf8'} )
 }
 
 export async function clearDir(directory: string, type: string) {
