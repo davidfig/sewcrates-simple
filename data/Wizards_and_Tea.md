@@ -1,0 +1,18 @@
+---
+key: 792
+title: Wizards and Tea
+slug: Wizards_and_Tea
+type: musing
+date: "2005-05-13 00:00:00"
+created: "2005-05-13 00:00:00"
+modified: null
+location: Seattle, WA
+hidden: false
+no_front: false
+locked: false
+width: null
+height: null
+tags: [Writing]
+---
+
+<p class="normal">It’s me again. Some people ask what I do when I sit here.</p><p class="normal">Inspiration why do you stay away from me? Let me tell a story, please! I want to say something, anything. Let me go. Let me find something. My prayer.</p><p class="normal">Zorrow night runs in the light of the evening. The tables surround me like tombstones in a graveyard. I stretch and crack my neck. I wonder what happened to blanket inspiration. Why can’t I sit and think? What’s there to type about, what energies do I expend? I’d like to say woo is me. There, I said it, kind of.</p><p class="normal">So where are the demons that I stalk? Why do they hide in the hallways?</p><p class="normal">“I’ll wait for you to finish your tea,” the demon said to the wizard.</p><p class="normal">“That is most kind of you,” the wizard said, lifting a tiny porcelain cup to his lips.</p><p class="normal">The demon averted his face and sneezed. A small cloud of fire shot from his mouth into the ground behind them. The demon placed his hand over his mouth. “Excuse me,” he said.</p><p class="normal">The wizard waved as if to say it was nothing, and sipped his tea. “I’ll be done in a moment and then we will start.”</p><p class="normal">“No rush,” the demon said. The demon was two feet tall and hopped gingerly from one foot to the other as if he stood on hot sand. His head was rubbery and gray, with large ears and nose, and wisps of white hair budding from his head and ears. His eyes were ebony with tiny fiery pupils and no eyelids. He held a bent blackened wooden wand in his three-fingered left hand.</p><p class="normal">“I appreciate that,” the wizard said. He put down the teacup and stood up throwing back his purple robes. “We can get started now if you’re ready.” The wizard was a rail thin old man. Except for his skinny neck poking up through his robes, the rest of his body looked like a mass of clothing. His clothing made him look fat and skinny at the same time. There always seemed to be robes underneath the robes that could be made out. Pouches with feathers and beads hung from the folds of the different robes. His hands were not visible from the robe and he didn’t hold anything. Even when he drank from the teacup, his face disappeared into his robe. He wore a pointed hat that covered white stringy hair. There were as many layers of hat as there were of his robe, and it made his face seem more gaunt than it was.</p><p class="normal">The demon nodded and bent over until he stood on his arms and legs. He hissed like a cat and circled the wizard, who turned slowly, always keeping the demon in front of him.</p><p class="normal">Demon finds a wizard drinking tea; demon is nice enough to let the wizard finish his tea before they duel;</p><p class="normal">Human condition. What is in front of me? What do I want to talk about? This is a moment of debate. I’m not sure how I’m going to continue this writing without subject. It’s difficult to sit down here and say nothing. I can’t invent things to say. How is this supposed to happen? Why is this supposed to happen? Keep reading and looking for something to say. Whatever happened to NEQID?</p><p class="normal">It’s gone. I don’t know where it disappeared to.</p><p class="normal">It’s a question of faith. Stay with what you know and see if it brings you anywhere before you have to run away screaming. Keep sitting here and don’t give up yet.</p>

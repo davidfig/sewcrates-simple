@@ -1,0 +1,18 @@
+---
+key: 2050
+title: Unstarted Starts
+slug: Unstarted_Starts
+type: musing
+date: "2009-12-29 13:54:01"
+created: "2009-12-29 13:53:45"
+modified: null
+location: Mercer Island, WA
+hidden: false
+no_front: true
+locked: false
+width: null
+height: null
+tags: [Consternations, Writing]
+---
+
+<p class="normal">It’s hard, it’s really hard. I know that. I knew that when I started and little has changed. I sit down and stare and hope and sometimes pray. Sometimes it comes but most times it doesn’t. Or when it does it’s not for long enough to matter. There’s not enough, it’s never enough. It’s my life story.</p><p class="normal">But I wanted to talk about memories. I wanted to remember, to find fodder in places other than my mundane life with my ordinary work problems and quiet life. I wanted to reach back to my crazy childhood and find nuggets to write about. The obvious problem is that my childhood wasn’t much more exciting than today. Life is just not an endless roll of endearing events. It’s a collection of ordinary happenings surrounding a hopefully optimistic outlook.</p><p class="normal">I don’t even know what I’m saying anymore. I’m just pushing buttons and hoping for something of value to happen. For now I see valueless moments. I see sitting in cushy chair pushing words onto uncaring paper as valuable. I see sitting in a coffee shop and creating word count as the end in itself. I know it’s not. I wish—no, I pray—I knew differently.</p><p class="normal">Even now I see my muse was a fake one. Muses are evil that way: you think they’re coming out to say something and when they push through the rubbery membrane and you see their slimy form, it’s too late to think about much else. I want topics and thoughts and happenings. What else can I waste my words on?</p><p class="normal">I’m consternating again and I’m proud. I’m proud that I can put words down that have little thought or purpose. They are just here because I can do it. I know I can, I want to do something where I could add—I won’t speak of value again. I’m throwing words on the page and hoping something sticks and sets me off on a tangent that goes somewhere. Right now I’m not moving very fast. I’m moving slowly and going nowhere.</p><p class="normal">“Just because they sell it doesn’t mean it’s valuable.”</p><p class="normal">He said something of value and I listened. I hoped I was learning something. I wasn’t, of course. I never do. I just sit around and wait for real problems and real issues instead of these pretend ones. I talk on the phone about the terribleness of things never realizing I am that terribleness. I am that abnormality that stains humanity. I wish that there was something more out there, something that I could point to and say here we go, we have found the cause and solution to all of the world’s problems and it wears jeans for too many days before washing them.</p><p class="normal">But I don’t have the answers and I don’t have solutions. I barely have problems. I had hopes again but they’ve been dashed. I should return home and play video games again. The score at the end keeps me motivated, keeps me asking for more. I’m looking for distractions. I want to find something that will keep my mind off my failings. I want something to move the day on, to redo my energies, to say something of value. I want to judge something, to write about something bigger than myself, to have an original idea and take it somewhere. I want to write about Plixel about my hobbies about my needs. I want to avoid the bullshit the unending unsavory ways in which nothing ever gets done.</p><p class="normal">I don’t remember why I write except out of habit. I don’t say anything of value, I barely put the words on the table before I realize that I’m done.</p>

@@ -1,0 +1,18 @@
+---
+key: 652
+title: Phones that are smarter than you
+slug: Phones_that_are_smarter_than_you
+type: musing
+date: "2005-02-03 00:00:00"
+created: "2005-02-03 00:00:00"
+modified: null
+location: Seattle, WA
+hidden: false
+no_front: false
+locked: false
+width: null
+height: null
+tags: [Diary]
+---
+
+<p class="normal">Today is another short entry for a short day. I’ve been breezing through my writing the last couple of days, not finding much to think or talk about. Today is no different. Work has been inconveniently busy and I haven’t had time to think of much to write during the day, which leaves me grasping at nothing for the evenings. I am going to get back to my space story. I don’t know exactly when that will happen, but I do want to write it. I just need to find another catch that will ignite my inspiration. That’s how it usually works: I’ll become lukewarm on something until I see it from an interesting angle. The angle will get me excited and I’ll get back into it and this time hopefully finish it.</p><p class="normal"><span class="italics">Blackness of the unpleasant kind saturates my mind. Righteousness. Wrongness. Everything is happiness. There are beats on the trees and lights on the pillows. Skinned bunnies, that’s rabbits to you, make their way across Australia’s plains. Whatever happened to the trees? Sawed away and replaced by stone. What is this world coming to? Green bows tied onto the arms of peasant women who wash feet not their own and eat corn fed to swine. What happens in a world that lets so many with so much, step on so many with so little?</span></p><p class="normal">Speaking of materialism, I bought a new cellular phone today. I’m a kid when it comes to certain things—usually things that can be found in Best Buy. I didn’t need a new phone since the one I bought five months ago works fine. But a number of my colleagues were showing off their shiny phones, and I became jealous. These colleagues are not as technologically savvy as me, and certainly not as cool as me. Twenty minutes after seeing someone with the phone, he barely knew how to turn it on, I ran out to the store. I timed it perfectly: I had thirty minutes before my meeting to get there, buy the phone, and get back. I made it with three minutes to spare. When I make the decision to buy something like this, I become very excited and anxious. Once I know I’m going to buy it, something overcomes me and the need increases tenfold. Before, I might want it, like I’ve wanted this phone for the last month or so. The desire does not become encompassing until I’ve made the decision to get it. Once that decision is made, I become anxious, afraid that maybe the store won’t have it anymore or I won’t make it there before it closes, or the world will end before I get my grubby hands on the current item of desire. This is the same feeling I have when a new video game comes out and I decide to purchase it. Before I make the decision, I’m fine. I’d like the game, but I don’t need it—the deep, heart-felt, if I don’t get it I’m going to die, need. But once I make my decision, the gates open and I shoot out the door single-mindedly.</p><p class="normal">I feel a bit better than yesterday. I woke with an inkling of a headache that I fought all day.  I succeeded in keeping it at bay, even during my one and a half commute home thanks to an accident between the second and third highway. If my smartphone had been properly set up, I would have seen the accident on the traffic map and avoided it. Okay, that’s not true. If it had been set up, I would have known about the accident and bitched and complained about it, knowing that I didn’t have the directional sense to avoid the accident. Stupid phones.</p>

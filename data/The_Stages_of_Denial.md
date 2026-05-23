@@ -1,0 +1,18 @@
+---
+key: 903
+title: The Stages of Denial
+slug: The_Stages_of_Denial
+type: musing
+date: "2005-09-05 23:00:00"
+created: "2005-09-05 23:00:00"
+modified: null
+location: Seattle, WA
+hidden: false
+no_front: false
+locked: false
+width: null
+height: null
+tags: [Writing]
+---
+
+<p class="normal">1.</p><p class="normal">Apologies for the nothingness. It doesn’t bother me much but there is the apology. I’m happy where I am. I’m breaking—taking a break, or, as Doolies’s sister put it (although not in connection to this particular excuse), I’m chillaxing (a combination of chilling and relaxing popular among the college crowds).</p><p class="normal">2.</p><p class="normal">I don’t care anymore. I have no cares, no desires, no wishes. Fuck this. Fuck this and every word I type on this.</p><p class="normal">3.</p><p class="normal">I’m not a writer. I’ve come to see this over the last few weeks. What type of writer doesn’t write? Loses himself in mindless games and drowns his daytime thoughts in work, going so far as to embrace this life? What type of writer loses the will to edit what he writes; falling headfirst into the trappings of accepting whatever words he pukes upon the page during the previous day, without thought to their worth or framing, and declaring, even though this is a first draft, a poorly thought out and executed rambling, declaring it art and brilliant, and daring the creatures who out of mind-numbing and masochistic benevolence read this crap I fling onto the page, daring these creatures to declare it anything but that. A writer wouldn’t do that.</p><p class="normal">An artist looks to expand and invoke, to draw out something that is hidden within his audience. I do none of this. I don’t prod or expand or challenge. I search for words to use to use words, not to create. In moments of clarity, when trapped without distractions or addictions (which are, when I think about it, one and the same), I may flout my patheticness to the world.</p><p class="normal">Where am I and why can’t I be something more? As I tried to get at before, I don’t tell stories, I throw down vignettes in the hopes that people can’t tell the difference. My soul doesn’t know of stories or characters. I wish it was different, but when I look into the void of creation, nothing stares back. I see the edge without the middle, the implementation without the plan. I consternate and whip myself for inadequacies, but I can’t seem to get past them. I name them and exorcise them, but they crawl back and dig into my skin until I can only scratch and pretend that is the way of it. I accept it and tell myself it’s what makes me happy, that whatever I may pretend, whatever phases and Marathons I may run, I will fail because my middle cannot hold, it is empty. I want to bleed, shit, puke, sacrifice my being to this page. And yet I know once the nectar of my creativity, the yummy drug of caffeine, wears, and once I am no longer locked forty thousand feet over the earth, this pen will dry and my focus will wane and peek out only far enough to write a paragraph of inane consternation and daily excuses as my shadow of this self takes its place among what I pretend to be my real and desired life.</p><p class="normal">4.</p><p class="normal">Plan, scout, and outline. Leave nothing to chance. Observe, not, and be ready. When inspiration hits, have something other than these ghastly consternations to throw onto the page.</p><p class="normal">Spinning a yarn: telling the tale from the beginning to the end by showing the knots, intersections, and crossovers.</p><p class="normal">Start with a slight pull on the yarn and see what happens as you spin it.</p>

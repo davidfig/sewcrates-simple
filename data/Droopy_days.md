@@ -1,0 +1,18 @@
+---
+key: 908
+title: Droopy days
+slug: Droopy_days
+type: musing
+date: "2005-09-13 21:12:10"
+created: "2005-09-13 21:12:10"
+modified: null
+location: Seattle, WA
+hidden: false
+no_front: false
+locked: false
+width: null
+height: null
+tags: [Diary, Writing]
+---
+
+<p class="normal">After a volcanic blast of energy yesterday, I fell back to reality today. I managed to crank out another 1,000 words in my story, and I even found a few hooks that might be interesting enough to propel me toward an ending. (I did write a version of the closing paragraphs of the story--but, like most of what I've written, I'm hardly impressed).</p><p class="normal">This writing exercise feels similar to the Marathon last year. The prose is terrible, the scenes are undeveloped and not described, the characters might as well not exist except for the name I gave them (all of which are obvious and uninspiring), and the story, well, the story moves nowhere and promises nothing, not even an adequate conflict. But that's okay. I'm writing this draft as an exploratory mission: the more I write, the better the chance I'll "uncover" some sort of story. I still haven't figured out if there's anything under the bad grammar and worse style. During the Marathon, as I piled on the words, I felt the same way: I didn't know it at the time, but I was searching for a story, and while I did get a few tastes of what could have been a story during the Marathon, I didn't realize that was what I should have been doing. This time I'm more clear on my goal and less concerned with the terribleness of what I've written.</p><p class="normal">All of this reminded me of <a href="http://liminality.org" title="Chuck">Chuck</a>'s story draft from the Marathon. He needs to get back to it and turn his surprisingly good first draft into an editable second draft. To think what I would do with such a quality first draft makes me shake in jealousy. But I know that I'm not that type of writer. My first draft is and will always be crap. My only hope (and it's a slim one) is that I can turn that first crappy draft into something slightly better the second time around--perhaps something with a semblance of a story in it. As for Chuck and his first draft, get to it, man. I can't believe I need to twist your arm about this.</p><p class="normal">I am dreading finishing up the first draft (which is painful in itself) and starting the second draft. Skimming through parts of what I've written, I don't think there are more than a few sentences that I will savage. Almost everything will have to be rewritten in more painstaking detail. But I'm following <span class="underline">Writer's Workshop</span>'s advice and plodding forward and hoping that I'll find a story somewhere in the pile of words, and some of the words I've written won't look nearly as bad with a few days time away from the work.</p><p class="normal">Speaking of work (my other job), it is quiet this week as most of my colleagues are in various conferences. One of our vendors sponsored an ice cream party, which would have been nice, except for the hard sell they put on us. I can't complain too much since I did get me some nice swag, and isn't that what it's all about: free stuff?</p><p class="normal">While I continue to experiment with less sleep, I did pay a bit for it this morning. The jog last night combined with less than seven hours of sleep left me in a fatigued state for most of the day. It wasn't a pathologically yawning type of day, but it was a I'd rather not be here one.</p><p class="normal">I'm babbling now and that's a good sign to end this. For those keeping count (and that probably consists of only me), I'm now at 5,867 useless words in my current draft.</p>

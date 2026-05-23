@@ -1,0 +1,18 @@
+---
+key: 333
+title: "europe: drunks"
+slug: europe_drunks
+type: musing
+date: "1999-08-26 17:45:00"
+created: "1999-08-26 17:45:00"
+modified: null
+location: Confu, Greece
+hidden: false
+no_front: false
+locked: false
+width: null
+height: null
+tags: [Travel]
+---
+
+<p class="normal">I’m now in Greece, reclining on a beach chair and listening to an amoeba shaped pool filled with drunken 20-somethings while my shoulders are shot with pain every time my shirt rubs against my newly sunburned skin. But it was a good day.</p><p class="normal">After taking a rather nice train from Rome to Berdissi (still in Italy), we boarded a ferry for Confu, Greece. Rosie decided to stay on the ferry to Presso (or something like that), which is only a 3-hour bus ride from Athens. I was never happier getting off a boat and into a new place—even though the new-city blues hit.</p><p class="normal">At Steven’s suggestion, I took a bus that brought us to “The Pink Palace,” which is a cross between a resort and a youth hostel. While the rooms tend toward the hostel look—as do the people staying here—the amenities are very nice and include breakfast, dinner, and my own room with a shower for $30/day.</p><p class="normal">Today I paid for an excursion to a couple of volcanic rocks about 10 minutes by boat away. From the rock I snorkeled, parasailed (really from a pier close by), and jumped off an approximately 50’ cliff. The worst part of the jump was the climb up the volcanic rock—very unnerving and while not terribly difficult, it does look and feel that way, especially when your knees are knocking and you’re unsure if your Tiva will slip or hold the edge. Once up there, it’s just a matter of stepping off—a much easier prospect than attempting to climb down.</p><p class="normal">The snorkeling was most excellent, especially once I got the hang of breathing through my mouth (the instructions were nonexistent). The reef around the rock was alive with fish and reef creatures. I definitely want to Scuba dive one of these days.</p><p class="normal">The parasailing was also fun, although it was rather anticlimactic after the cliff jumping. Except for the loss of circulation in my legs caused by the straps, you can almost believe you’re flying free—an amazing feeling.</p><p class="normal">Now, on to why I picked up my journal in the first place. I don’t understand why I’m not like these people in the water. Granted, I’m a couple of years older than them (for the most part), but even throwing the clock back those years, I still would not be in the water guzzling beers and talking about inane topics like travel and the respective countries they were raised in. I think a lot of it has to do with the mating game, or at least the one night stand game. I’m not really interested in that, but I’m looking for a real relationship, not sex on the first night.</p><p class="normal">But it must be more than that. More than my shyness or my relationship desires. I’ve heard (probably in a couple of movies) the line “he has an old soul.” That’s how I’ve always felt. I’ve never felt comfortable around people my age. I’ve never felt the desire to share in their jubilations or small-talk rituals. I’ve attempted it many times, I’ve joined in their drinking fiestas—I’ve attempted to talk like they do, do the crazy things that they do. I guess I’ve been a failure at this part of my life—a dismal failure.</p><p class="normal"><span class="underline">Unfinished</span></p><p class="nospaceLeft">The pool is filled with bubbles a sparkling, bodies a crushing, and beers a spilling.</p><p class="nospaceLeft">Drunkards yell and laugh, splash and sing, and drink and wobble.</p><p class="normal">….</p><br>

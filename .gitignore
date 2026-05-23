@@ -1,0 +1,6 @@
+node_modules
+public/dates
+public/posts
+public/tags
+
+.DS_Store

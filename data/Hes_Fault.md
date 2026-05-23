@@ -1,0 +1,18 @@
+---
+key: 616
+title: He’s Fault
+slug: Hes_Fault
+type: musing
+date: "2004-12-31 22:00:00"
+created: "2004-12-31 22:00:00"
+modified: null
+location: Seattle, WA
+hidden: false
+no_front: false
+locked: false
+width: null
+height: null
+tags: [Poetry]
+---
+
+<p class="nospaceLeft">Black’ed-silk roads glistens night moon;</p><p class="nospaceLeft">She drives late bearing home;</p><p class="nospaceLeft">Calls: “Be soon, wait up,” says she;</p><p class="nospaceLeft">“Never thought different,” says he indifferently.</p><br><p class="nospaceLeft">Slippery dust sprinkles her dozing head;</p><p class="nospaceLeft">Bobbing chin hits chest, eyes drift lazily;</p><p class="nospaceLeft">Hour grows late, bed distant;</p><p class="nospaceLeft">Car sways lullaby of rancid fatigue.</p><br><p class="nospaceLeft">TV glaring the show’s laughter;</p><p class="nospaceLeft">His freedom riding on peace of moment;</p><p class="nospaceLeft">Air buzzing silence over empty home;</p><p class="nospaceLeft">No rain finds the drying couch.</p><br><p class="nospaceLeft">Swallowing, smiling, and shaking past;</p><p class="nospaceLeft">More cheery occasions to find himself;</p><p class="nospaceLeft">Nose itches and something not right;</p><p class="nospaceLeft">Time gone away, no creak of door.</p><br><p class="nospaceLeft">“Should be home hours past,” says he;</p><p class="nospaceLeft">Phone dials and beeps and rings and rings;</p><p class="nospaceLeft">“Signals fly and tunnels break,” prays he;</p><p class="nospaceLeft">Chest sinks, galloping heart peculiar taste.</p><br><p class="nospaceLeft">Ventures out soaked in darkness glow;</p><p class="nospaceLeft">Empty roads and pitter-patter night;</p><p class="nospaceLeft">“Come home, come home,” yells he;</p><p class="nospaceLeft">Tears of clouds answer nobody.</p><br><p class="nospaceLeft">Dialing and beeping and ringing and ringing;</p><p class="nospaceLeft">And dialing and beeping and ringing and ringing;</p><p class="nospaceLeft">And dialing and beeping and ringing and ringing;</p><p class="nospaceLeft">And dialing and beeping and ringing and ringing.</p><br><p class="nospaceLeft">Silence answers as sun arises;</p><p class="nospaceLeft">“Needn’t want a day alone,” screams he;</p><p class="nospaceLeft">Rings and rings and now scared to answer;</p><p class="nospaceLeft">Not her, not her, who will it be?</p><br><p class="nospaceLeft">“Found she over cracked tree,</p><p class="nospaceLeft">“Roads slipped and head dipped;</p><p class="nospaceLeft">“Smashed ride and broken side;</p><p class="nospaceLeft">“Not what you want to see,“ says not she.</p><br><p class="nospaceLeft">Pumping legs and tortured valves;</p><p class="nospaceLeft">“Alright shall be, strong lady,” cries he;</p><p class="nospaceLeft">Arrives at sides of bed and cracked form;</p><p class="nospaceLeft">“Sleep she fell while driving,” hears he.</p><br><p class="nospaceLeft">Sinking to knee, holding bloody she;</p><p class="nospaceLeft">Never knew she was until past night;</p><p class="nospaceLeft">“Not right, give back, thief,” cries he;</p><p class="nospaceLeft">She breathes, eyes drowning beeps and fights.</p><br><p class="nospaceLeft">Weeks he goes to visit she;</p><p class="nospaceLeft">Nights pass thinking of phone’s late call;</p><p class="nospaceLeft">“If only I’d dialed and beeped,</p><p class="nospaceLeft">“If only I’d rang and rang,” says he.</p><br><p class="nospaceLeft">Never wakes and she falls away;</p><p class="nospaceLeft">Flowers drift toward final rest;</p><p class="nospaceLeft">He and she and she and he stay;</p><p class="nospaceLeft">Too late for he ringing and he forgiving.</p><br><br>

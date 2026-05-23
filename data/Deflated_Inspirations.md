@@ -1,0 +1,18 @@
+---
+key: 1095
+title: Deflated Inspirations
+slug: Deflated_Inspirations
+type: musing
+date: "2006-08-28 19:52:35"
+created: "2006-08-28 19:52:35"
+modified: null
+location: Seattle, WA
+hidden: false
+no_front: false
+locked: false
+width: null
+height: null
+tags: [Diary]
+---
+
+<p class="normal">I spin aimlessly. I cross legs and hold court. Nobody makes an argument. I need to draw. I need the meditative silence. I need to research. I need to write. I need to create. I need. I need to stop fast forwarding through time. All of it is here for me. Why do I waste it hoping and waiting? Needs and desires.</p><p class="normal">Triangles make nice shapes. People wonder where the greatest pee shooters are in the internet. I have to find where they combine the pictures in my head and the words that dance in my legs. Short pithy remarks. Drawings of shady whereabouts. Like this one (not drawn by me, regrettably):</p><p class="center"><img src="/assets/misc/1095_Man with newspaper.jpg" alt="Man with Newspaper"></p><p class="center">(<a href="http://contrafactos.blogspot.com/" title="via">via</a>, <a href=" http://www.economist.com/opinion/displaystory.cfm?story_id=7827135" title="original">original</a>)</p><p class="normal">I don’t know why I like this drawing, but it’s simple, disarming, and yet complicated. It tugs, and I like tugging. (Or it might be that I saw it at my moment of inspiration, when everything was lucid, and like the song playing at odd times in life, I associate that song or this drawing with that feeling.) I want to do the same but then add the words. Words need to be in those clouds and around the picture. I want the words to say as much as the picture, be in the picture, of the picture, bloody the picture. They’ll say something—not something I plan, but something that comes about during the creative moment. I’ll write when I create, not before or after, but there, in that moment. Words in clouds, words everywhere and nowhere. Something to be seen and something not seen.</p><p class="normal">Again, inspiration strikes, and I expect it to pass unabated. I don’t know if anything will ever come of it. Too many times I do this. At this moment, right now, I feel I can accomplish anything. And then it passes, and that everything, well, it’s gone. I remember it vaguely, I can reread these words and wonder what they meant, and possibly relive for a moment before the feeling fades and it’s as if I didn’t even have the feeling earlier.</p><p class="normal">Create, research, write, draw, become. What more can I want? As long as I repeat those things, I’ll achieve what I want. Achievement. I don’t mean the end goal, I mean the continuing quest. I won’t achieve until and while I do. There is no afterglow, there is only the glow of progress.</p><p class="normal">Do you have any intelligent thoughts on this? Where are you? What do you have to say? Why do you write in such little windows? There you go. That made me smile. I’m a short sentence whore. I sing-song my way to understandability. Is that even a word in these days? Should longer sentences survive? Is this what the future will look like? Ah, the easy answers for hard questions. The vowels to your consonants. The tides to your moon.</p><p class="normal">Crazy talk becomes me today. Doolies leaves for NYC tomorrow, and I join her for the Labor Day weekend. We have plans to bum around the city, and visit friends and family. I am visiting with Scott and family, and Chris, two college friends I haven’t seen in years. I’ll see Steven, and my mother, of course. We’ll try to find our NYC wedding venue (the Taiwan venue has been set, I hear). It seems like the easiest thing in the world to find wedding halls, but clichés always do.</p>

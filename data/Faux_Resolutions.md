@@ -1,0 +1,18 @@
+---
+key: 1196
+title: Faux Resolutions
+slug: Faux_Resolutions
+type: musing
+date: "2007-01-01 19:40:28"
+created: "2007-01-01 19:40:28"
+modified: null
+location: Seattle, WA
+hidden: false
+no_front: false
+locked: false
+width: null
+height: null
+tags: [Diary, New Years]
+---
+
+<p class="normal">The one and a half months of travel has drawn to a close. I am sitting in my Castley brown chair at the end of a whirlwind travel day, and I find myself contently contemplating the blank page. We missed what turned out to be nasty weather patterns along the east coast. We began our flight back this morning at an unreasonable 6:30am. Through the miracle of time zones we arrived home at 11:30am, completely exhausted and swearing up and down to anyone who would listen that it felt more like eight or nine at night. We did cheat and take a nap in the afternoon, and spent the rest of the day cleaning up the Castle and lazing about. Newark (the airport we flew through after leaving Buffalo) had two hour delays later in the day. At first our decision to leave early seemed foolhardy. Looking back, we now look like geniuses.</p><p class="normal">It’s early evening and I’m drinking a small coffee trying to get the juices flowing. I doubt they’ll flow tonight. It’s not that it’s difficult to find optimism on this rainy night, it’s that I’m too tired to care much about these happy feelings. I am glad to move my fingers on my keyboard on my couch and feel its cushiony goodness on my backside. I have high hopes for this chair and this keyboard and the next few months. We’ll see if anything comes of it.</p><p class="normal">It’s after New Years and Doolies asked the big question: what is your resolution this year? I don’t usually make resolutions. I think self-improvement is an ongoing 365 days per year type of deal. I say that because it’s easy to say. It’s very hard to submit into practice. I have made huge leaps this past year. I’m more than two months into my daily writing, and while it sucks and I don’t have much story to show for it (yes, I know my <span class="italics">real</span> resolution should be: no more consternating about my lack of storying), I have managed to put words on paper each day, rain or shine, sick or well, something to say or nothing running through the cavern that I loosely call my brain. There’s something to say about dedication, no matter how ill placed.</p><p class="normal">We do have big plans for the rest of the evening after I get through this entry. We will resume our Hebrew lessons after we took off a few weeks while visiting Dallas. And then we will watch “Samurai X,” another in a continuing line of anime following the adventures of an assassin turned good. The catch: he now uses a “reverse blade” sword, which allows him to injure people but not kill them. The DVD we have waiting downstairs is the first of his pre-history—when he was still a killer working for the government. It’ll be interesting to see how they deal with his morals when he hasn’t “turned good.”</p><p class="normal">My mind is still blank. I think it is dialogue time. I’ll apologize in advance for the nonsensical words. One of these days I’ll start on a dialogue and it’ll turn into a story with characters and conflict. Damn, I miss conflict. I still don’t know what conflict is or how I find it or what I should do about getting it into my words. That should be my resolution: cultivate conflict in everything I do. When a character stumbles, throw another conflict in his path. When it looks like she’s about to reach her goal, trip her up, skin her knee, show her who’s boss. If only it was that easy. If only.</p>

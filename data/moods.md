@@ -1,0 +1,18 @@
+---
+key: 445
+title: moods
+slug: moods
+type: musing
+date: "2004-02-20 00:00:00"
+created: "2004-02-20 00:00:00"
+modified: null
+location: Airplane to Houston, TX
+hidden: false
+no_front: false
+locked: false
+width: null
+height: null
+tags: [Philosophy]
+---
+
+<p class="normal">I won’t say where I went, but I’m currently on an airplane headed back to Houston.</p><p class="normal">Last week, I set out to apply what I learned from reading on writing to my storytelling. I failed. I've been searching for the reasons for that failure and at first I thought that my failures related to a lack of energy or inspiration. But I don’t think inspiration does it for me. What I seek more than inspiration is a calm, dedicated feeling where everything is clear and work becomes not work so much as—again, I find myself at a loss for words. Work is still work but it is somehow different. I just woke up from a nap, so this is not coming out like I expected. I wanted to say something profound and instead I roll around in a mound of putty.</p><p class="normal">I’m stressing too much on a well-written story instead of just the story. I have to forget about the writing and work on the storytelling. I am a good writer, and the writing style will be there whether I sculpt each word or edit the work after I finish the story and character development. I worry too much about the writing. I spend too much time drafting and redrafting paragraphs until what I’m trying to get across loses its flavor and only stale, well-formed writing remain. I need to escape.</p><p class="normal">I like it when I work: I flex my brain muscles and that creates contentment. When I sit around there is no fulfillment. The problem, again, is not just the starting to work. I can get over the inertia: instead, it’s my moods, which was the word I was searching for above. I don’t lack inspiration as much as the right frame of mind, the right mood.</p><p class="normal">That sounds rather silly looking back over it. Why should my mood so drastically affect how I work? I don’t know, but it does seem to. When I’m in the right mood, I can get anything accomplished. I can sit in front of the computer and pound away for hours. I can write poetry, stories, or long musings that are insightful and full of emotion. But when I’m not in the “mood,” nothing comes out and I end up trying to find something—anything—that will pass the time during that mood. That’s what video games, movies, and television programs have been for me: a way to pass the time, a way to enter a neutral mood. It changes my mood not into the firebrand mood that I desire, but the passive, time will pass if you keep your eyes closed, mood.</p><p class="normal">I’m writing this to a dark screen. It’s not so much a privacy thing as a way to avoid running from what I write. That’s a concern. I don’t want my writing to scare me. I don’t want my feelings to scare me, but they do. It is something that I need to address.</p><p class="normal">I was watching (at three this morning) an infomercial on Tony Robbins program. I’m tempted to buy his CDs, or, at the least, find out if he sells his books somewhere. It sounds rather ridiculous (especially to me), but if he can show me how to stay in the right mood, I would accomplish more. I guess there are drugs that might help, caffeine is something that certainly improves my mood. There’s also meditation, which I do want to begin (how else will I perfect my mental powers?). And then there’s physical wellbeing, the gym. I’ve been neglecting that lately and I plan to rectify that soon.</p><p class="normal">This flight has another forty-five minutes or so left. I won’t make the best of it.</p>

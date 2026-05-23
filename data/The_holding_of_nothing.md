@@ -1,0 +1,18 @@
+---
+key: 2628
+title: The holding of nothing
+slug: The_holding_of_nothing
+type: musing
+date: "2013-03-02 19:45:24"
+created: "2013-03-02 19:40:24"
+modified: null
+location: Mercer Island, WA
+hidden: false
+no_front: false
+locked: false
+width: null
+height: null
+tags: [30 minutes, Shopping, fashion show]
+---
+
+<p class="normal">So what’s going on today, you, my Dear Readers, may ask. It’s a good question. It’s Saturday night as I record these words. We went to the mall this morning at the Tiger’s request. We went mostly to eat lunch but arrived early enough to catch part of a children’s fashion show. To be clear, this was unplanned. We do not plan to go to fashion shows.</p><p class="normal">The Tiger and Doolies watched while I pushed the sleeping Dinosaur around in his stroller. I tried to catch the Doolies’s eye to let her know that I was going to walk elsewhere as I could not hear another announcement about a child’s favorite color and favorite vacation, which, inevitably, was to Hawaii. I caught Doolies’s eye and she left her chair and headed over with the Tiger. I told her that I was bored and planned to walk around. She was welcome to stay. She did not. Boredom runs in our family.</p><p class="normal">We then had a big lunch before going to the outside part of the mall and walking around in circles for a while. It was surprisingly nice in the morning and afternoon. Not so nice now, with the rain pounding our overloaded gutters. The sun came earlier and it was in the mid-fifties. Spring is right around the corner, and I cannot wait.</p><p class="normal">I thought about shopping, and the salesman even gave me an opening to buy new clothes. I have worn out my winter clothes, and with the weather changing, I am in need. But then I thought about shopping, and even with an afternoon espresso at the end of lunch, I was not able to bring myself to do it. I would like new clothing. I just want those new clothing without shopping. Strange how that works.</p><p class="normal">The Tiger started her nap on the way back from the mall but I failed in transferring her. She stayed up with the babysitter while the Doolies and I went to class. She fell asleep on our drive back from the Indian place but woke up in time for her bath. She’s now reading her three books before she goes to sleep.</p><p class="normal">The Dinosaur is making his customary noises in his bouncy.</p><p class="normal">Let’s see: monsters, check; weather, check; overview of day, check. Yes, I seemed to have covered the day.</p><p class="normal">There are a lot of articles about the proposal to send a married couple to Mars. Don’t worry, Mom, I won’t be volunteering anytime soon. It’s one of those strange questions that always receives strange responses. It reminds me of that movie about whether you would let your spouse cheat on you for one million dollars. The hypothetical situation sparks tremendous debates.</p><p class="normal">I’m not cut out to be an astronaut. I don’t like small spaces and get bored easily. The astronaut job seems like a mix between bus driver and mechanic. I lack skills in both those profession. Luckily I’m sure there are many qualified couples who will make history in a few years heading for a flyby to Mars. I do want to see photographs, and lots of them.</p><p class="normal">We’re selling our oversized ladder. I realized that I don’t like heights and I don’t like doing work on the house. Accepting those two truths made the decision to sell our ladder quite easy. I should sell more stuff. Next on the auction block: our cookware, gardening tools, and dish soap.</p>

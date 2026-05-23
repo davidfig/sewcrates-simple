@@ -1,0 +1,18 @@
+---
+key: 490
+title: Cy Twombly
+slug: Cy_Twombly
+type: musing
+date: "2004-06-13 00:00:00"
+created: "2004-06-13 00:00:00"
+modified: null
+location: Houston, TX
+hidden: false
+no_front: false
+locked: false
+width: null
+height: null
+tags: [Diary, Writing]
+---
+
+<p class="normal">Absolute silence surrounds genius. There are rarely crowds at the Menil collection's <a href=" http://www.menil.org/twombly.html" title="Cy Twombly Gallery">Cy Twombly Gallery</a>, and today is no exception. Like many times before, I’ve come here for inspiration, and I'm greeted by the wonderful plaster smell, dead silence–punctuated only by murmurs of the ventilation system–and, of most importance, the art. Cy finds beauty and emotions in splotches of paint, scribbles, and writings (in a penmanship worse than mine).</p><p class="normal">I had an argument with my former (completely my fault) friend Greg while visiting Europe. We were eating dinner in Prague at a wonderful place that served a seven-course meal with alcohol for less than twenty dollars per person. This was back in 1999. At the table, Greg defended modern art, while I, never having understood it, belittled it, his arguments, and him. I’m a good belittler. It took me many years to appreciate art other than realistic, or surreal realistic art. I’ve since realized that what modern art tries to convey is pure emotion poured on to a page. It takes courage to draw such pictures. The artist risks society not understanding the scribbles and disparaging the work. See Roark in <span class="underline">Fountainhead</span>.</p><p class="normal">I was taken aback the first time I visited this gallery. As you can see below, the paintings are infantile scribblings. I was, however, affected by these scribbles, more so than I have ever been by art. I laughed uncontrollably at first before realizing what it was I was laughing at. I appreciated Cy's eye, the risks he took, and the emotions his paintings made me feel, something that I have since found in the work of many other artists I used to disregard.</p><p class="normal">I’ve reached a point in my writing where I’m not sure what comes next. I’ve been struggling through the starts and stops of a few new stories, but what I created has not been satisfying. It’s missing something—it’s missing the entertainment and emotional aspect that I’m searching for. It sucks to have an entire weekend free and spend most of my time moping and wandering aimlessly instead of writing.</p><p class="normal">My dedication to staring at a blank screen and writing consternations (similar to this one) in my Moleskine are still there. Thanks to my journal, I’ve spared you the worst of my consternations, but, lately, the pages have filled up with fewer synopses and new work, and more consternation. I have realized the importance of writing even if I have nothing to write. Just the exercise of staring at the blank screen helps me.</p><p class="normal">These feelings started after I finished the second draft of FBT. Instead of even finishing the edits for that story, I excitedly jumped right into my next story. I thought that was how it was going to go: every month a new story, and from these stories I would develop better writing skills in my quest to tell stories.</p><p class="normal">To run into another huge brick wall is very disheartening but expected. Writing is hard. When I’m flying through a draft, I sometimes forget that. It’s these walls that remind me. I just have to knock it down and keep going. Carl, Lenny, and Moe be damned. Visiting this exhibit is the first step. Thanks Cy Twombly.</p>

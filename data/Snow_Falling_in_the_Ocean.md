@@ -1,0 +1,18 @@
+---
+key: 640
+title: Snow Falling in the Ocean
+slug: Snow_Falling_in_the_Ocean
+type: musing
+date: "2005-01-23 00:00:00"
+created: "2005-01-23 00:00:00"
+modified: null
+location: New York, NY
+hidden: false
+no_front: false
+locked: false
+width: null
+height: null
+tags: [Diary, Doodles]
+---
+
+<p class="normal">I wonder what happens when snow falls into the ocean. No big snow piles, no dangerous driving conditions, no snowmen, no snowballs; what a waste. The NYC blizzard was rather wasteful as well. I’m sure all the children in the northeast were praying for the snow to hold off for a few days. Speaking about wasted snow, there was nothing worse than a weekend snow dump. But for twenty-four or forty-eight hours, there would be no school today.</p><p class="normal">My flight seems to be on time, which is more than I can say about Doolies’s flight. Hers was cancelled, and we rebooked her on a later flight going to LAX, which is an hour farther away from her apartment than SNA, her original destination, but it gets her in tonight and lets her get back to work tomorrow morning. Lucky girl. I have a few hours to kill before my flight. I had hoped that writing would be in my picture, but as of now, it doesn’t seem like it’s going to happen. I’ll try back later, but no promises. I’ve been rather lethargic lately, and except for yesterday, where I had energy for an hour, squandered most of it on a family squabble, and ended up writing only a few paragraphs until my energy escaped, I’ve been rather low on writing energies. I know, I know: I need to fight through it. How am I supposed to do this every day, if all I do is complain and cut-and-paste the same story every day? I have no idea. But I’ll keep the words coming and hope to find something on the flight or before it to make this tolerable. What was that? Drink caffeine? Why, that’s a fine idea. I’ll take you up on that right now.</p><p class="normal">Yummy Snapple caffeine. I was hoping to find a bucks or fake-coffee house, but the closest one was closed. I’m now reseated and ready to start on something that doesn’t have Lamb in the title. How much can I take of whiny office drones? What, am I writing for Dilbert or something?</p><p class="normal">I’m staring at a blank screen thirty-five thousand feet over the earth. Well, the screen isn’t exactly blank but I am that high, literally. I keep hoping something will pour out; that these musings will turn into something more, but they continue to flap their hands and go nowhere. Since when do words fly?</p><p class="normal">I’ve been terribly nauseous on the airplane. Before boarding, I ate a Nathan’s hot dog, which I felt was outside my prohibition on fast food. I was wrong. I was terribly wrong. I keep fighting down puke from both ends, and the two peach Snapples I drank aren’t helping things. There are still close to three hours left on this flight. I’m sure I’ll survive somehow; I just thought it’d be a good time to tell you (another reason) why I haven’t written the brilliant story I promised. So many excuses. I’m getting good at these. Look for my dog ate my story, and I’ll get it to you tomorrow, coming to a theater near you.</p><p class="normal">I made it home, and the food poisoning (since that was what it obviously was) has run its course. I’m tired from the traveling and I’m off to bed. Doolies hasn’t made it home yet, but she should be home in a few hours.</p><p class="normal">I meant to post this airplane drawing. As you can tell, I wasn't feeling good.</p><p class="center"><a href="/assets/misc/640_Sick Scribbles.JPG" title="Sick Scribbles"><img src="/assets/misc/640_Sick Scribbles_small.JPG" alt="Sick Scribbles"></a></p>

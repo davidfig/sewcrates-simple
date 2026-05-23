@@ -1,0 +1,18 @@
+---
+key: 582
+title: Headaches and Editing
+slug: Headaches_and_Editing
+type: musing
+date: "2004-12-02 00:00:00"
+created: "2004-12-02 00:00:00"
+modified: null
+location: Seattle, WA
+hidden: false
+no_front: false
+locked: false
+width: null
+height: null
+tags: [Writing]
+---
+
+<p class="normal">I almost didn’t make it tonight. Although technically, this might go up after midnight, I did write a few paragraphs during the day, and I feel justified in saying this is a Thursday and not Friday musing. I cheat that way. Today was a tough day. My headache, which I will talk about later (even though it was written earlier in the day), lingered all day, and it combined with my general lack of direction and energy on the writing front to provide for a bad day. But as happens often, once night rolled around, the headache faded to a distant echoing, and I was able to drag my computer up to my bed and pound away a few paragraphs to call this a more or less useful day.</p><p class="normal">My headache returned this morning. My inkling is that not drinking coffee today or yesterday might have caused it. The test I do for this is imagining drinking a warm, tall mocha, and trying to determine if I’d want to drink it and how I would feel after drinking it—a pseudo-response, if you will. When I did that his morning, my head felt better and I realized that, yes, very much so thank you, I would like some yummy caffeine.</p><p class="normal">This isn’t absolute evidence of my withdrawal. It’s just anecdotal. I’ll have to keep drinking mochas for a while longer to build up enough evidence to present my case. I do it for science, if you must know. The sacrifices I make: they bring fat tears to my dry eyes.</p><p class="normal">I thought about editing my current story, but in the state I found myself, I didn’t think I would accomplish much. To tell you the truth, and here I usually tell the truth even though it’s hard to believe that, I’ve not been interested in that story for a few days. It was great the first couple of days, but filling in the ending details grew boring, as if I was writing something I had already written, even though, clearly, I had never wrote it. I will get back to it. I expended too much effort already in working on it to leave the story in its current state. I might take a break from it for a few days or maybe not. I won’t spend any more time meta-writing it, as I find myself doing now.</p><p class="normal">I have energy left to write more, but not much more floats around in my head. I think this is why I started telling stories in the first place: I wanted to write something but I found myself with nothing to write. I think I said that already. I think I said that a few times already.</p><p class="normal">Instead of talking about nothing, I started editing my current story even though I talked about how I didn’t have energy and it bored me. I don’t know why I do that. I think one thing, but once I delve in, I think the complete opposite. The editing, at least for the first part that I finished, went well. I’m not going to post the different sections as I edit them, mostly because you’ve already seen the writing and I don’t want to bore you with the same thing just cut down and rearranged. Once I finish the whole draft, I’ll post it. These entries might be a bit shorter until I do that, but I’ll keep writing to share my progress and hopefully to muse on some interesting topics. I think I’ve been neglecting my voyeurism lately, and I’ll hopefully rectify that this weekend.</p><p class="normal">Sorry for the short writing, but I have lots of editing to do.</p>

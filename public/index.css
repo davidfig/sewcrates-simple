@@ -1,0 +1,172 @@
+:root {
+    --button-radius: 0.4rem;
+    --foreground: rgba(255,255,255,0.7);
+    --background: #112b37;  
+    --font: monospace;
+}
+
+body {
+    margin: 0;
+    background: var(--background);
+    color: var(--foreground);
+    font-family: var(--font);
+}
+
+a {
+    color: var(--foreground);
+}
+
+a:hover {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.content {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.years {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.button {
+    padding: 0.5rem;
+    border-radius: var(--button-radius);
+    margin: 5px;
+    background: rgba(255,255,255,0.1);
+    color: var(--foreground);
+    text-decoration: none;
+}
+
+.button:hover   {
+    background: rgba(255,255,255,0.25);
+    color: var(--foreground);
+}
+
+.current {
+    background: rgba(255,255,255,0.4);
+}
+
+.index-title {
+    text-align: center;
+    font-size: 125%;
+    margin: 1rem 0;
+}
+
+.index {
+    display: block;
+    width: fit-content;
+    margin: 2rem auto;
+}
+
+.index-entry {
+    width: fit-content;
+    margin: 0 auto;
+}
+
+.index-entry > a {
+    padding: 0 1rem;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    height: 3rem;
+    color: var(--foreground);
+    text-decoration: none;
+}
+
+.index-entry:hover {
+    background: rgba(255,255,255,0.1)
+}
+
+.thumbnail, .thumbnail > img {
+    width: 3rem;
+}
+
+.title {
+    width: 30rem;
+}
+
+.doodle {
+    max-width: 800px;
+    max-height: 50vh;
+    text-align: center;
+    margin: 0 auto 2rem;
+}
+
+.post-title {
+    font-size: 150%;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+.post-date {
+    font-size: 120%;
+}
+
+.post-title > a, .post-date > a {
+    text-decoration: none;
+}
+
+.post-title > a:hover, .post-date > a:hover {
+    text-decoration: underline;
+    color: var(--foreground);
+}
+
+.post-location {
+    margin-bottom: 1rem;
+    opacity: 60%;
+}
+
+.tags {
+    display: flex;
+    gap: 1rem;
+}
+
+.tags a {
+    text-decoration: none;
+}
+
+.tag {
+    font-size: 85%;
+    padding: 0.5rem 0.75rem;
+    border-radius: var(--button-radius);
+    background: rgba(255,255,255,0.1);
+    color: var(--foreground);
+}
+
+.tag:hover {
+    background: rgba(255,255,255,0.25)
+}
+
+.post-text {
+    margin: 2rem 0;
+}
+
+.next-previous {
+    display: flex;
+    justify-content: space-between;
+}
+
+.next-previous a {
+    text-decoration: none;
+    color: var(--foreground);
+}
+
+.next, .previous {
+    font-size: 85%;
+    padding: 0.5rem 0.75rem;
+    border-radius: var(--button-radius);
+    background: rgba(255,255,255,0.1);
+    color: var(--foreground);
+}

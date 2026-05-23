@@ -1,0 +1,18 @@
+---
+key: 978
+title: Scribble the Random Samplings
+slug: Scribble_the_Random_Samplings
+type: musing
+date: "2005-12-18 22:44:27"
+created: "2005-12-18 22:44:27"
+modified: null
+location: Seattle, WA
+hidden: false
+no_front: false
+locked: false
+width: null
+height: null
+tags: [Writing]
+---
+
+<p class="normal">I’ve thrown down many random thoughts and doodles over the past week. I eventually need to return to more organized works, but for now, as I finish unwinding from the Marathon and, for that matter, 2005, I’m finding comfort with this style. As <a href="http://liminality.org" title="Chuck">Chuck</a> likes to remind me, this should be fun, stupid, and if you’re not having fun, then you’re doing something wrong . . . or other such silliness. So it’s random doodles and more random words for the moment, at least until something better comes along or I find a way to spend more than ten minutes sitting and creating.</p><p class="normal">It is strangely therapeutic, this random writing. That’s my technique of late, by the way, which is, not that this should surprise you, the same technique I usually use when I draw. For example, for the <a href="/Doodles/2005-12-18-22:05:59/" title="unicorn picture">unicorn picture</a> below, Doolies asked me to draw her something—a watch the “artist” moment, if you will (even thought I am as far from an artist as I am a writer—good ol’ parenthetical self-deprecation, how I miss thee). I started scribbling random shapes, and after I erased the first ten or so, Doolies stole the pen and drew a shape, which, after a few rotations and manipulations, began to look a bit horse-ish, in that monster type of way. I added my favorite eye, and then added colors and more scribbles, and pushed and pulled the lines until <span class="italics">it</span> began to appear. After that, it was a simple job to draw in the background and post it to sewcrates (not a moment too soon, as I drained my precious energies, as usually happens after a burst of “creativity”).</p><p class="normal">Since Doolies had a hand in it, it is officially her favorite monster—she has a strange affinity for my doodles of monsters, much more than my more realistic doodles. To psychoanalyze her for a moment, I believe the realistic ones scare her because they’re so divorced from reality and yet strangely grounded. This causes her to question my sanity, a dangerous avenue to trot down, since it ends in a bad crazy place. For the doodles that are clearly monsters, however, there is no reality since they’re truly monsters and have no grounding in reality, a much easier answer that doesn’t leave David locked up in a padded room.</p><p class="normal">My writing lately has been similar (to the monster drawing, not the psychoanalyzing). I throw down words, whatever passes through my head, usually things I see or have seen throughout the day, and once I have a collection of words, I start looking to the form of the words to try to find pleasing shapes. I edit them to try to bring out what I glimpsed, and then usually give up and post the remnants after running out of energy (you see a pattern yet?). The writing feels more like sculpting than writing that way, carving away the extraneous parts, clumping new words and sentences to form that piece of nose that I didn’t realize I was going to need, and, well, just about doing whatever it is I feel like doing at that moment.</p><p class="normal">I did manage to scribble more notes today, but after rereading them, I decided even for my low standard, there was nothing worth posting. So be it. I leave it to a discussion of technique and a couple of monsters for the day.</p>

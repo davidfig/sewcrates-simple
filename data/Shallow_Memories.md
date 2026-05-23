@@ -1,0 +1,18 @@
+---
+key: 707
+title: Shallow Memories
+slug: Shallow_Memories
+type: musing
+date: "2005-03-12 22:30:16"
+created: "2005-03-12 22:30:16"
+modified: null
+location: Brooklyn, NY
+hidden: false
+no_front: false
+locked: false
+width: null
+height: null
+tags: [Diary]
+---
+
+<p class="normal">I’ve spent the last hour going through drawers and papers in my old room. It is one am in NY, and I’ve not done a good job acclimating myself to this time zone. My many earlier naps certainly didn’t help in this regard. I decided to go through my old papers (and not sleep) in the hopes of finding letters that Chuck wrote me when he first moved to Korea. I promised him some time ago to send copies along of this very interesting time in his life. (Sorry, Chuck, I’ve only located the first letter you wrote me. I’ll eventually find the other ones—it’s a mess in there.) I posted my side of the <a href="/Letters/" title="conversation">conversation</a> a long time ago—which are not nearly as embarrassing as the Sara letters.</p><p class="normal">As I went through the papers, something became rather apparent. I’ve been thinking over the last few days about memories. <span class="underline">Austerlitz</span> has convinced me that remembering childhood especially after traumatic events is important for the psyche well-being of a person. As I’ve mentioned countless times, I’m not very good at memories, both the long-term and short-term varieties. Part of my problem, especially with short-term memory, is due to a failure of concentration. I hoped that research would enable me to remember gems from my childhood, which I would use—as I try to use everything not bolted down in my head—as fodder for my stories (yes, I know, I focus too much on storytelling and bore you with my pathetic attempts).</p><p class="normal">Do you know what I realized during my search? Well, I assume you don’t since you weren’t there and I haven’t told you yet; it was more of a rhetorical question, if you will. I found that I led an ineffectual childhood. As I read my old papers, from a printout of all the e-mails I sent during college, old papers, letters I received, and pictures, I realized one thing: I remember most of my childhood. The thing about it, however, is that it was a rather ho-hum childhood. I did few exciting things, never rebelled, and never took a chance. It’s sad when I look back at it. I don’t know what I was wasting my time with (besides the countless hours I spent watching television, programming my computer, playing video games, and reading), but it’s clear what I wasn’t doing: I wasn’t living.</p><p class="normal">I don’t know what I expect a childhood to contain. Perhaps I idealize it from what I’ve see in movies or learned from speaking to others, but when I look back, I see years of wasted time. I had no direction, no desires (except for an unfulfilled video-game designer dream—which failed more from lack of follow through because of laziness than anything else), and no courage.</p><p class="normal">Damn, I’m being hard on myself. It’s just that I hate boring people, and when I look back at little Dave (I can’t believe I called myself that—the “Dave” part, not the “little” part), I see a monster with no dreams or desires or fulfillments. That started to change through law school and especially when I arrived in Houston. I always thought of myself as an old soul, someone who didn’t need the clothing of childhood because I outgrew it in the cradle. What I’m beginning to understand now is that I wasn’t an old soul; instead, I was a scared soul who was afraid to experience anything.</p>

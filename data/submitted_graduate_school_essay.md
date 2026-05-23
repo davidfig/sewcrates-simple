@@ -1,0 +1,18 @@
+---
+key: 414
+title: submitted graduate school essay
+slug: submitted_graduate_school_essay
+type: musing
+date: "2003-11-24 00:00:00"
+created: "2003-11-24 00:00:00"
+modified: null
+location: Houston, TX
+hidden: false
+no_front: false
+locked: false
+width: null
+height: null
+tags: [Graduate School]
+---
+
+<p class="normal">This was my admission essay that I submitted in an attempt at admissions to graduate school for a PhD in computer science.  I don't remember exactly when it was finished, but it went through a number of drafts.  And, yes, I know it's pandering.  Trust me, it makes me as sick as it makes you.  Here's the <a href="/musings/1-Nov-2003/">original</a>.</p><p>----X8</p><p class="normal">I plan to pursue studies and research in human-computer interface, particularly in improving the way humans interface with representations of large amounts of information. My schooling and career choices have prepared me well for this research. While my decision to return to school was difficult, I believe it is now the right time for me to continue my computer science studies.</p><p class="normal">Computers have played an important role in my life. When I was 7-years old, my father bought a 16k Color Computer II from Radio Shack. While the rest of my family ignored the contraption attached to the television, I became enamored, spending the better part of my youth programming. I continued this pursuit in college, studying computer science. At the same time, I became captivated by philosophy. The overlapping inputs and outputs of these two areas attracted me: the programs and theories of computer science and the writings and theories of philosophy. After spending a year as a computer programmer for an accounting firm, I left for law school. It was clear from my first course that I was well suited for law. The unnatural combination of the logic skills from my computer science studies and the communication skills from my philosophy studies fit perfectly into the curriculum: I graduated first in my law school class.</p><p class="normal">As I had done in college, I pursued a dual degree at law school, receiving a master's degree in computer engineering. I found solace in the challenges the computer science classes presented and in the opportunities to continue programming and learn about new theories, especially formal logic and advanced automata.</p><p class="normal">I worked at a law firm in New York City practicing patent law after I graduated and quickly became bored. After two years, I left the law firm and joined Schlumberger's seismic company. I have since been promoted and now manage the intellectual property for the entire seismic organization, a company with revenue of $1.5 billion. This type of promotion at my experience level is remarkable.</p><p class="normal">It was during a project for Schlumberger that my passion for computer science reignited. I was asked to design a way to assess and display intellectual property information for Schlumberger’s technology. After doing an exhaustive search for a way to display this vast amount of information, I was disappointed at what I found. The computer, for all its advances, had not moved much beyond bar charts and hyperlinks. I implemented the project, but I was never satisfied with the presentation. There had to be a better way and I became interested in finding it.</p><p class="normal">I return to study computer science with new skills and focus. My legal career and studies have taught me how laws interact with technology, and the value of research and effective communication. I believe my novel skills and understandings make me an ideal candidate for graduate studies in the field of computer science.</p>

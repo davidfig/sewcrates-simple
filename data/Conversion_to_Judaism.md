@@ -1,0 +1,18 @@
+---
+key: 1006
+title: Conversion to Judaism
+slug: Conversion_to_Judaism
+type: musing
+date: "2006-02-03 15:09:54"
+created: "2006-02-03 15:09:54"
+modified: null
+location: Seattle, WA
+hidden: false
+no_front: false
+locked: false
+width: null
+height: null
+tags: [Jewish, Links]
+---
+
+<DL><p><DT><A HREF="http://www.chabad.org/library/article.asp?AID=52730" ADD_DATE="1139007154" LAST_VISIT="1139007154" LAST_MODIFIED="1139007154">A Dialogue on Intermarriage  Chabad.org</A><DT><A HREF="http://www.chabad.org/library/article.asp?AID=328783" ADD_DATE="1139007135" LAST_VISIT="1139007135" LAST_MODIFIED="1139007135">Alejandra and the Rabbi  Chabad.org</A><DT><A HREF="http://www.beingjewish.com/conversion/becomingjewish.html" ADD_DATE="1139007336" LAST_VISIT="1139007336" LAST_MODIFIED="1139007336">Becoming Jewish Converting according to Jewish Law</A><DT><A HREF="http://www.chabad.org/library/article.asp?AID=160976" ADD_DATE="1139007188" LAST_VISIT="1139007188" LAST_MODIFIED="1139007188">Can a convert be my soul-mate  Chabad.org</A><DT><A HREF="http://en.wikipedia.org/wiki/Conversion_to_Judaism" ADD_DATE="1139007651" LAST_VISIT="1139007651" LAST_MODIFIED="1139007651">Conversion to Judaism - Wikipedia, the free encyclopedia</A><DT><A HREF="http://www.convert.org/" ADD_DATE="1139007427" LAST_VISIT="1139007427" LAST_MODIFIED="1139007427">Conversion To Judaism</A><DT><A HREF="http://www.chabad.org/library/article.asp?AID=3002" ADD_DATE="1139007086" LAST_VISIT="1139007086" LAST_MODIFIED="1139007086">How Does One Convert to Judaism  Chabad.org</A><DT><A HREF="http://www.milechai.com/judaism/jewish-people.html" ADD_DATE="1139007546" LAST_VISIT="1139007546" LAST_MODIFIED="1139007546">Jewish People - Define</A><DT><A HREF="http://www.beingjewish.com/conversion/non-orthodox.html" ADD_DATE="1139007353" LAST_VISIT="1139007353" LAST_MODIFIED="1139007353">Non-Orthodox Conversions Are They Valid</A><DT><A HREF="http://www.faqs.org/faqs/judaism/FAQ/05-Worship/" ADD_DATE="1139007405" LAST_VISIT="1139007405" LAST_MODIFIED="1139007405">soc.culture.jewish FAQ Worship, Conversion, Intermarriage (5-12)</A><DT><A HREF="http://www.clal.org/ss43.html" ADD_DATE="1139007500" LAST_VISIT="1139007500" LAST_MODIFIED="1139007500">Steve Greenberg, Between Intermarriage and Conversion Finding a Middle Way</A><DT><A HREF="http://www.adl.org/Israel/Conversion/pre-Israel.asp" ADD_DATE="1139007530" LAST_VISIT="1139007530" LAST_MODIFIED="1139007530">The Conversion Crisis Pre-State Jewish Life</A><DT><A HREF="http://www.chabad.org/library/article.asp?AID=149877" ADD_DATE="1139007062" LAST_VISIT="1139007062" LAST_MODIFIED="1139007062">The Conversion Option  Chabad.org</A><DT><A HREF="http://www.chabad.org/library/article.asp?AID=2953" ADD_DATE="1139007114" LAST_VISIT="1139007114" LAST_MODIFIED="1139007114">The Girl Who Had To Be Jewish  Chabad.org</A><DT><A HREF="http://www.chabad.org/library/article.asp?AID=149878" ADD_DATE="1139006960" LAST_VISIT="1139006960" LAST_MODIFIED="1139006960">The Jewish Concept of Conversion  Chabad.org</A><DT><A HREF="http://www.chabad.org/library/article.asp?AID=108396" ADD_DATE="1139007071" LAST_VISIT="1139007071" LAST_MODIFIED="1139007071">What is Wrong with Intermarriage  Chabad.org</A><DT><A HREF="http://www.chabad.org/library/article.asp?AID=248165" ADD_DATE="1139007095" LAST_VISIT="1139007095" LAST_MODIFIED="1139007095">Why Do Rabbis Discourage Conversions  Chabad.org</A><DT><A HREF="http://www.chabad.org/library/article.asp?AID=160987" ADD_DATE="1139007079" LAST_VISIT="1139007079" LAST_MODIFIED="1139007079">Why Not Make it Easier to Convert  Chabad.org</A></DL><p>

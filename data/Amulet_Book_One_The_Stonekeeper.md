@@ -1,0 +1,18 @@
+---
+key: 1519
+title: "Amulet, Book One: The Stonekeeper"
+slug: Amulet_Book_One_The_Stonekeeper
+type: musing
+date: "2008-01-14 14:08:36"
+created: "2008-01-14 10:15:32"
+modified: null
+location: Seattle, WA
+hidden: false
+no_front: false
+locked: false
+width: null
+height: null
+tags: [Books, Kazu Kibuishi, Graphic novel]
+---
+
+<div class="post"<div class="book"><div class="nospaceCenter"><img class="star" src="/styles/star.png" alt="star"><img class="star" src="/styles/star.png" alt="star"><img class="star" src="/styles/star.png" alt="star"></div><div class="nospaceCenter"><a href="http://www.amazon.com/Amulet-Book-One-Kazu-Kibuishi/dp/0439846803%3FSubscriptionId%3D1XJETFQ4VMYGM1T4Z4R2%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0439846803"><img class="book" src="http://ecx.images-amazon.com/images/I/51GYAiCpRuL._SL160_.jpg" alt=""></a></div><div class="nospaceCenter"><a href="http://www.amazon.com/Amulet-Book-One-Kazu-Kibuishi/dp/0439846803%3FSubscriptionId%3D1XJETFQ4VMYGM1T4Z4R2%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0439846803"><span class="underline">Amulet, Book One: The Stonekeeper</span></a></div></div><p class="normal">I've been meaning to read a graphic novel for some time. One of my favorite online comics (albeit infrequently updated) is <a href="http://www.boltcity.com/copper/" title="Copper">Copper</a> by <a href="http://www.boltcity.com/" title="Kazu Kibuishi">Kazu Kibuishi</a> (his earlier Coppers are a bit better than his more recent stuff). When I read about Kazu's new graphic novel on <a href="http://www.penny-arcade.com/2007/12/31/" title="Penny Arcade">Penny Arcade</a>, I knew it would be a good place to start.</p><p class="normal">As expected, the illustrations were wonderful. Kazu has an uncanny ability to show emotions through his character's facial and body positions. He has excellent pacing and intersperses interesting "camera" angles to keep the visuals fresh between frames.</p><p class="normal">I'm always amazed by how much work it must take to create a graphic novel. Besides the story planning and writing (which, I have read, is one of the genres weakpoints), each frame must be painstakingly drawn and colored. Imagine writing a full-length novel, and then going back and handwriting the entire novel, paying particular attention to the penmanship. Now multiple that by ten. Or something like that. (I have dreamed of trying this--like most of my dreams, it usually fails because I don't have much in the way of interesting stories to tell, and, more importantly, strong artistic skills outside of squiggly sperm-like characters.)</p><p class="normal"><span class="italics">MINOR SPOILER ALERT</span>: The opening sequence of the book is very strong, as it starts with the death of the two protagonists' father (this is not much of a spoiler since every synopsis contains this tidbit). From there, it spirals down into a standard fantasy tale, where they meet characters who want to help them, and others that want to hurt them. There is a slight twist at the end--although the twist is more of a foreshadowing of who is the real bad guy in the story.</p><p class="normal">Overall, I enjoyed the hour or so it took me to read. I plan to go back through it to study his amazing art. While I doubt I will purchase the next book, I am glad to have read the first one (similar to how I was happy to have read <a href="http://www.amazon.com/Golden-Compass-Dark-Materials-Book/dp/0440418321/ref=ed_oe_p" title="Philip Pullman's Golden Compass">Philip Pullman's Golden Compass</a>, but was content to watch the rest of his story on the big screen).</p</div>

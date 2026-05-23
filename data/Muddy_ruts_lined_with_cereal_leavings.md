@@ -1,0 +1,18 @@
+---
+key: 1212
+title: Muddy ruts lined with cereal leavings
+slug: Muddy_ruts_lined_with_cereal_leavings
+type: musing
+date: "2007-01-09 21:18:04"
+created: "2007-01-09 21:18:04"
+modified: null
+location: Seattle, WA
+hidden: false
+no_front: false
+locked: false
+width: null
+height: null
+tags: [Writing, "Self-loathing"]
+---
+
+<p class="normal">So I find myself in a rut. I didn’t realize I was in a rut. That’s how ruts sometimes are: with all that mud flying around you, you don’t realize you’re spinning your tires and digging yourself deeper into the pit.</p><p class="normal">I woke this morning with these words replaying in my brain: “I’m in a rut where I feel I keep doing the same things over and over and getting nowhere. The world tastes stale.” My morning ideas were more eloquent and I lost something in their translation. I didn’t know what it meant. Even after writing these two paragraphs I still didn’t understand. It wasn’t until I chatted with Doolies and a friend that I realized what was going on.</p><p class="normal">My life has never been better. Doolies is wonderful and perfect for me and keeps me saner and smarter than ever before. My job is challenging and fun, especially when I’m busy doing important things that affect other important things (and, yes, while I could be more vague, it would be very difficult). The Castle and Seattle, while not a brownstone in NYC, are very acceptable alternatives. I’m experimenting with large spiritual answers, which reminds me of my school days, except this time I actually bring along a few brain cells. And I write every day, and while perhaps not close to my real goal, I do meet minor Goals along the way.</p><p class="normal">So why am I talking about ruts? It may be my cereal choice. I eat cereal for breakfast most mornings. I grab a bowl of Honey-Nut Cheerios before catching the vanpool. It’s a good cereal. Decently healthy with a slight sweetness that makes the oat taste bearable. (For a strange reason I rather not explore, the smell of this cereal reminds me of the smells of babies.) I eat through a small box each week, always keeping a backup on the top of the fridge.</p><p class="normal">But it’s not the cereal and it’s not Doolies or my job or my house or anything else. It’s me. It’s me and my stupid writing and complaints about writing—the consternations. It hit me today. I don’t know why it waited so long. I’ve been deluding myself. I keep thinking putting words down a writer it makes. It doesn’t, the words, the writer, none of it. I really thought this writing, however painful, was interesting and useful. Here I’m doing it again. I’m consternating and complaining and all sorts of bullshit. I’m depressed about it. I should have finished this earlier before my depression hit, but the depression is important. It let’s me see what I am: a hack with no future in this and no way I will ever put meaningful words together.</p><p class="normal">My experiences and stories and everything amounts to nothing. I have no feeling in my writing or my stories—what fucking stories? None of these words are worthwhile. I’m masturbating on the page and enjoying my squirting. It’s disgusting, all of it. I make the stupid fucking Goal for no other reason other than utter self-disappointment. Hell, I can barely spell disappointment and yet it stares me right in my face.</p><p class="normal">That’s it. This is it. If I have nothing to say but consternations I won’t say anything. For months, years, a lifetime, whatever. This is the last time I post this shit. This is the last time I roll this crap across my fingertips. I’m sick to death of it. I’m sick to death of me and my failings.</p>

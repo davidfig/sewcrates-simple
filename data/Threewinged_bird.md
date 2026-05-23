@@ -1,0 +1,18 @@
+---
+key: 1673
+title: "Three-winged bird"
+slug: Threewinged_bird
+type: musing
+date: "2008-06-19 00:00:00"
+created: "2008-06-19 00:00:00"
+modified: null
+location: Mercer Island, WA
+hidden: false
+no_front: true
+locked: false
+width: null
+height: null
+tags: [Writing]
+---
+
+<p class="normal">That was not something I was hoping to see. It was a bird with three wings walking on water. Its little legs moved rapidly across the surface and it continued. There was bright sunlight behind the bird, and I had to be careful not to go blind. I glanced and looked away before the sight pulled me back. The bird had not made much progress walking across the water.</p><p class="normal">He was big eyed with a big sword and a bit head. His hair was purple with blue highlights and when he smiled, a small row of teeth gleamed from his lipless mouth. His eyes were intense and reflected a shaded white spot. In short he was the . . . .</p><p class="normal">He was born a superhero. In the depths of his tights and later his wiry hair, people came to know him for what he was. He turned to the forces of evil to fight them. He had large hands and even a larger heart, which did not always find the right way to express itself. Why should it?</p><p class="normal">Okay, the game: it’s a simple shooter in space with exaggerated gravity. Four control buttons: right and left thrusters, main thruster, and gun. There are no brakes. The star field is the background, and there are large bodies that pull you toward them. All objects have gravity effects. The gun shoots bullets. Bullets change your mass and affect you when you fire. You chose the gun and bullets. Both have an effect on your ships trajectory and mass.</p><p class="normal">Background: scrolling star field (shows movement). Your ship is in the middle. The star field rotates around you. There’s a bit of movement allowed.</p><p class="normal">There aren’t enough interesting people around me. It was always the characters that kick off my stories. I have to see somebody I love and begin describing them. I make up their history and I dwell in that history hoping I find something interesting to say about them. I’ve seen lost that skill. It’s not lost so much as missing as the people around me no longer entertain me. I don’t fall in love with them. There’s no intriguing fat man or well-endowed elderly woman to create stories around. There are ordinary people living ordinary lives with nothing jumping out of them except their intelligence and success. What’s the fun in telling those stories? I want the strange, week and a half decision making times.</p><p class="normal">I write this pretending to be inspired and knowing that nothing will come of it. I won’t sit on my couch on a beautiful afternoon and push out words. I just don’t do that anymore. I’ll doodle a bit, perhaps brush up my website, before settling in to an evening anime marathon after cooking an adequate if unoriginal dinner with a high probability of chicken as the main dish.</p><p class="normal">What happened to me? When did I change and move away from pursuing this one hobby I enjoyed in the same way as people enjoy peeling blisters or pulling at loose skin?</p><p class="normal">I saw a bird with three wings walking on water. Its skinny legs moved across the surface. I was at the edge of a lake when I saw the strange bird. I wanted to watch the bird make its way across the lake but the sun was setting at the far end of the lake, and the best I managed was to steal glances of the bird. The sun was setting and I had to look away from the bird to avoid going blind. I could not keep my eyes away for long. The sight of those little legs walking on the water and not sinking drew me back.</p>
