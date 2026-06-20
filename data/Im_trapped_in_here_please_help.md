@@ -1,6 +1,6 @@
 ---
 key: 2034
-title: '"I''m trapped in here, please help!"'
+title: '"I'm trapped in here, please help!"'
 slug: Im_trapped_in_here_please_help
 type: "cast-of-horribles"
 date: "2010-04-06 09:52:05"

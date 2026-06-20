@@ -1,6 +1,6 @@
 ---
 key: 2098
-title: '"There are some things I can''t do for a bit"'
+title: '"There are some things I can't do for a bit"'
 slug: There_are_some_things_I_cant_do_for_a_bit
 type: "cast-of-horribles"
 date: "2010-07-05 11:32:58"

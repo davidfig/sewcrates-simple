@@ -1,6 +1,6 @@
 ---
 key: 176
-title: '"It''s liberating to speak and know you have no audience"'
+title: '"It's liberating to speak and know you have no audience"'
 slug: Its_liberating_to_speak_and_know_you_have_no_audience
 type: "cast-of-horribles"
 date: "2007-09-09 16:11:16"

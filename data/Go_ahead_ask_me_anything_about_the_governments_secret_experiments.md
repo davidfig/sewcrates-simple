@@ -1,6 +1,6 @@
 ---
 key: 1973
-title: '"Go ahead, ask me anything about the government''s secret experiments"'
+title: '"Go ahead, ask me anything about the government's secret experiments"'
 slug: Go_ahead_ask_me_anything_about_the_governments_secret_experiments
 type: "cast-of-horribles"
 date: "2010-02-25 11:53:18"

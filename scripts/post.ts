@@ -150,7 +150,7 @@ export async function writePost(post: PostData, previous: PostData | undefined, 
         body += '<div></div>'
     }
     if (next) {
-        body += button(`${next.title} \>`, `/posts/${next.slug}.html`, 'title-overflow')
+        body += button(`<div style="display:flex;gap:0.5rem"><div class="title-overflow">${next.title}</div> \></div>`, `/posts/${next.slug}.html`)
     }
 
     body += '</div>'

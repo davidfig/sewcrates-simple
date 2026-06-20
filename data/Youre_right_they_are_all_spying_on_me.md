@@ -1,6 +1,6 @@
 ---
 key: 2266
-title: '"You''re right, they are all spying on me"'
+title: '"You're right, they are all spying on me"'
 slug: Youre_right_they_are_all_spying_on_me
 type: "cast-of-horribles"
 date: "2011-04-04 10:03:21"

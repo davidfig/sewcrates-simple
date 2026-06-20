@@ -1,6 +1,6 @@
 ---
 key: 1684
-title: '"Don''t let me get in the way"'
+title: '"Don't let me get in the way"'
 slug: Dont_let_me_get_in_the_way
 type: "cast-of-horribles"
 date: "2009-02-18 09:09:08"

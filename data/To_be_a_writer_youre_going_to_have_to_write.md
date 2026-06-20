@@ -1,6 +1,6 @@
 ---
 key: 2044
-title: '"To be a writer, you''re going to have to write"'
+title: '"To be a writer, you're going to have to write"'
 slug: To_be_a_writer_youre_going_to_have_to_write
 type: "cast-of-horribles"
 date: "2010-04-16 09:54:28"

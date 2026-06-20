@@ -1,6 +1,6 @@
 ---
 key: 2083
-title: '"What''s the first thing you''re going to do when you take over the world?"'
+title: '"What's the first thing you're going to do when you take over the world?"'
 slug: Whats_the_first_thing_youre_going_to_do_when_you_take_over_the_world
 type: "cast-of-horribles"
 date: "2010-06-04 09:02:53"

@@ -1,7 +1,6 @@
 :root {
     --button-radius: 0.4rem;
     --foreground: rgba(255,255,255,0.7);
-    --background: #112b37;  
     --font: monospace;
     --gap: 0.5rem;
     --shadow: 0.25rem 0.25rem 0 rgba(0,0,0,0.3);
@@ -10,9 +9,10 @@
 
 body {
     margin: 0;
-    background: var(--background);
+    background: linear-gradient(180deg, #112b37 0%, black 200%);
     color: var(--foreground);
     font-family: var(--font);
+    min-height: 100vh;
 }
 
 a {

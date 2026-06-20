@@ -1,6 +1,6 @@
 ---
 key: 1810
-title: '"Just don''t tell your mother"'
+title: '"Just don't tell your mother"'
 slug: Just_dont_tell_your_mother
 type: "cast-of-horribles"
 date: "2009-06-01 09:22:42"

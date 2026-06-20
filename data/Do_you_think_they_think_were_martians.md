@@ -1,6 +1,6 @@
 ---
 key: 2121
-title: '"Do you think they think we''re martians?"'
+title: '"Do you think they think we're martians?"'
 slug: Do_you_think_they_think_were_martians
 type: "cast-of-horribles"
 date: "2010-07-20 14:44:27"

@@ -1,6 +1,6 @@
 ---
 key: 1636
-title: '"It''s ex nihilo at some point"'
+title: '"It's ex nihilo at some point"'
 slug: Its_ex_nihilo_at_some_point
 type: "cast-of-horribles"
 date: "2008-12-02 09:39:03"

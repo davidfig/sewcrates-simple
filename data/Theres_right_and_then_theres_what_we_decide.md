@@ -1,6 +1,6 @@
 ---
 key: 238
-title: '"There''s right and then there''s what we decide"'
+title: '"There's right and then there's what we decide"'
 slug: Theres_right_and_then_theres_what_we_decide
 type: "cast-of-horribles"
 date: "2008-02-07 09:33:20"

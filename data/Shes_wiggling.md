@@ -1,6 +1,6 @@
 ---
 key: 2267
-title: '"She''s wiggling"'
+title: '"She's wiggling"'
 slug: Shes_wiggling
 type: "cast-of-horribles"
 date: "2011-04-05 09:04:02"

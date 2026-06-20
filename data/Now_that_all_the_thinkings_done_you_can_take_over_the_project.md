@@ -1,6 +1,6 @@
 ---
 key: 1945
-title: '"Now that all the thinking''s done you can take over the project"'
+title: '"Now that all the thinking's done you can take over the project"'
 slug: Now_that_all_the_thinkings_done_you_can_take_over_the_project
 type: "cast-of-horribles"
 date: "2010-01-25 09:34:03"

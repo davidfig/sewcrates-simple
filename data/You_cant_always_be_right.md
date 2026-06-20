@@ -1,6 +1,6 @@
 ---
 key: 1977
-title: '"You can''t always be right"'
+title: '"You can't always be right"'
 slug: You_cant_always_be_right
 type: "cast-of-horribles"
 date: "2010-03-05 08:40:38"

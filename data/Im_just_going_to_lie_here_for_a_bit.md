@@ -1,6 +1,6 @@
 ---
 key: 2282
-title: '"I''m just going to lie here for a bit"'
+title: '"I'm just going to lie here for a bit"'
 slug: Im_just_going_to_lie_here_for_a_bit
 type: "cast-of-horribles"
 date: "2011-04-29 08:02:16"

@@ -1,6 +1,6 @@
 ---
 key: 2202
-title: '"Don''t you have more important things to do with your time?"'
+title: '"Don't you have more important things to do with your time?"'
 slug: Dont_you_have_more_important_things_to_do_with_your_time
 type: "cast-of-horribles"
 date: "2010-12-16 10:50:17"

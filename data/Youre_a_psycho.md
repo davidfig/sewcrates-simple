@@ -1,6 +1,6 @@
 ---
 key: 1963
-title: '"You''re a psycho"'
+title: '"You're a psycho"'
 slug: Youre_a_psycho
 type: "cast-of-horribles"
 date: "2010-02-12 09:33:24"

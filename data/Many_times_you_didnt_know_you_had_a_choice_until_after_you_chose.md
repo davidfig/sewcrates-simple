@@ -1,6 +1,6 @@
 ---
 key: 172
-title: '"Many times you didn''t know you had a choice until after you chose"'
+title: '"Many times you didn't know you had a choice until after you chose"'
 slug: Many_times_you_didnt_know_you_had_a_choice_until_after_you_chose
 type: "cast-of-horribles"
 date: "2007-09-04 18:28:47"

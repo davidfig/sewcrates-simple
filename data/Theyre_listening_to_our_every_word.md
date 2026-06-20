@@ -1,6 +1,6 @@
 ---
 key: 1914
-title: '"They''re listening to our every word"'
+title: '"They're listening to our every word"'
 slug: Theyre_listening_to_our_every_word
 type: "cast-of-horribles"
 date: "2009-12-21 08:51:44"

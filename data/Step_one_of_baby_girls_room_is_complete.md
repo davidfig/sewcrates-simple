@@ -1,6 +1,6 @@
 ---
 key: 2230
-title: '"Step one of baby girl''s room is complete"'
+title: '"Step one of baby girl's room is complete"'
 slug: Step_one_of_baby_girls_room_is_complete
 type: "cast-of-horribles"
 date: "2011-02-09 09:33:19"

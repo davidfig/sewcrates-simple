@@ -1,6 +1,6 @@
 ---
 key: 1643
-title: '"It''s always best to get somebody else to do your fighting"'
+title: '"It's always best to get somebody else to do your fighting"'
 slug: Its_always_best_to_get_somebody_else_to_do_your_fighting
 type: "cast-of-horribles"
 date: "2008-12-18 08:32:22"

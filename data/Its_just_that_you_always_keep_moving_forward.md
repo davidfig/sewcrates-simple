@@ -1,6 +1,6 @@
 ---
 key: 193
-title: '"It''s just that you always keep moving forward"'
+title: '"It's just that you always keep moving forward"'
 slug: Its_just_that_you_always_keep_moving_forward
 type: "cast-of-horribles"
 date: "2007-10-09 20:49:13"

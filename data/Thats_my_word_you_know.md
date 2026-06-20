@@ -1,6 +1,6 @@
 ---
 key: 2341
-title: '"That''s my word, you know"'
+title: '"That's my word, you know"'
 slug: Thats_my_word_you_know
 type: "cast-of-horribles"
 date: "2011-08-12 08:28:58"

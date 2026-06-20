@@ -1,6 +1,6 @@
 ---
 key: 1830
-title: '"If I tell amusing anecdotes then I don''t really need to say anything"'
+title: '"If I tell amusing anecdotes then I don't really need to say anything"'
 slug: If_I_tell_amusing_anecdotes_then_I_dont_really_need_to_say_anything
 type: "cast-of-horribles"
 date: "2009-06-29 08:33:30"

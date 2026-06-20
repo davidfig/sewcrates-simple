@@ -1,6 +1,6 @@
 ---
 key: 195
-title: '"If I know what you''re going to say, do I really have to listen?"'
+title: '"If I know what you're going to say, do I really have to listen?"'
 slug: If_I_know_what_youre_going_to_say_do_I_really_have_to_listen
 type: "cast-of-horribles"
 date: "2007-10-10 20:05:10"

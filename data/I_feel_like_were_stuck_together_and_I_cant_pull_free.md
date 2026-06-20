@@ -1,6 +1,6 @@
 ---
 key: 135
-title: '"I feel like we''re stuck together and I can''t pull free"'
+title: '"I feel like we're stuck together and I can't pull free"'
 slug: I_feel_like_were_stuck_together_and_I_cant_pull_free
 type: "cast-of-horribles"
 date: "2007-09-03 18:26:57"

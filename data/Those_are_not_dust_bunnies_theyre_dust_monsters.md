@@ -1,6 +1,6 @@
 ---
 key: 1863
-title: '"Those are not dust bunnies, they''re dust monsters"'
+title: '"Those are not dust bunnies, they're dust monsters"'
 slug: Those_are_not_dust_bunnies_theyre_dust_monsters
 type: "cast-of-horribles"
 date: "2009-08-11 09:52:57"

@@ -1,6 +1,6 @@
 ---
 key: 264
-title: '"He''s never going to leave his little world now"'
+title: '"He's never going to leave his little world now"'
 slug: Hes_never_going_to_leave_his_little_world_now
 type: "cast-of-horribles"
 date: "2008-04-15 07:48:03"

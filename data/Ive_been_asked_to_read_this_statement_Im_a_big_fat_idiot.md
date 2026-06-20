@@ -1,6 +1,6 @@
 ---
 key: 1974
-title: '"I''ve been asked to read this statement: I''m a big fat idiot"'
+title: '"I've been asked to read this statement: I'm a big fat idiot"'
 slug: Ive_been_asked_to_read_this_statement_Im_a_big_fat_idiot
 type: "cast-of-horribles"
 date: "2010-03-03 09:23:46"

@@ -1,6 +1,6 @@
 ---
 key: 2214
-title: '"So don''t feel bad if nobody bothers to steal your creations"'
+title: '"So don't feel bad if nobody bothers to steal your creations"'
 slug: So_dont_feel_bad_if_nobody_bothers_to_steal_your_creations
 type: "cast-of-horribles"
 date: "2011-01-10 09:22:38"

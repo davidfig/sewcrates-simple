@@ -1,6 +1,6 @@
 ---
 key: 1899
-title: '"You need to know you''re going to succeed before you start"'
+title: '"You need to know you're going to succeed before you start"'
 slug: You_need_to_know_youre_going_to_succeed_before_you_start
 type: "cast-of-horribles"
 date: "2009-10-07 09:31:02"

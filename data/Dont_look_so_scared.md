@@ -1,6 +1,6 @@
 ---
 key: 1544
-title: '"Don''t look so scared"'
+title: '"Don't look so scared"'
 slug: Dont_look_so_scared
 type: "cast-of-horribles"
 date: "2008-06-17 09:56:23"

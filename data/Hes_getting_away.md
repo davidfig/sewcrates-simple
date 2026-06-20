@@ -1,6 +1,6 @@
 ---
 key: 1561
-title: '"He''s getting away!"'
+title: '"He's getting away!"'
 slug: Hes_getting_away
 type: "cast-of-horribles"
 date: "2008-07-08 08:10:07"

@@ -1,6 +1,6 @@
 ---
 key: 1889
-title: '"But you''re a monk!"'
+title: '"But you're a monk!"'
 slug: But_youre_a_monk
 type: "cast-of-horribles"
 date: "2009-04-25 22:44:48"

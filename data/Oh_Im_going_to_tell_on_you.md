@@ -1,6 +1,6 @@
 ---
 key: 1898
-title: '"Oh, I''m going to tell on you!"'
+title: '"Oh, I'm going to tell on you!"'
 slug: Oh_Im_going_to_tell_on_you
 type: "cast-of-horribles"
 date: "2009-10-09 10:13:59"

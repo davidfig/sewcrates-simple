@@ -1,6 +1,6 @@
 ---
 key: 2310
-title: '"They''re coming to take me away"'
+title: '"They're coming to take me away"'
 slug: Theyre_coming_to_take_me_away
 type: "cast-of-horribles"
 date: "2011-07-05 08:30:45"
